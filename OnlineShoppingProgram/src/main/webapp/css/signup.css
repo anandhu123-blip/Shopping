@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+body
+{
+	background-color: green;
+	font: 1em Helvetica;
+}
+#container
+{
+	width: 840px;
+	margin: 25px auto;
+	margin-top: 50px;
+}
+.waysing
+{
+	float: left;
+	background-color: white;
+	width: 480px;
+	height: 528px;
+	border-radius: 0 5px 5px 0;
+	padding-top: 20px;
+	padding-right: 20px;
+}
